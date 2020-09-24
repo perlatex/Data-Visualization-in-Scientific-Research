@@ -41,15 +41,13 @@ knitr::opts_chunk$set(
 
 - 基本图形
   - 常用图表类型
-  
 - 绘图原则 
-   - 绘图原则
-   - 错题解析
-
+  - 绘图原则
+  - 错题解析
 - 代码实现 
-   - 常用工具
-   - **R** 和 ggplot2
-   - 案例演示
+  - 常用工具
+  - **R** 和 ggplot2
+  - 案例演示
 
 
 # 基本图形
@@ -240,7 +238,7 @@ knitr::include_graphics("images/popgrowth-vs-popsize-colored-1.png")
 
 
 ## 色彩的运用
-增加标注比颜色强多了
+颜色分组，同时增加标注
 ```{r, out.width='100%', fig.align='center'}
 knitr::include_graphics("images/popgrowth-vs-popsize-bw-1.png")
 ```
@@ -482,11 +480,41 @@ library(cranlogs)
 sum(d$count)
 ```
 
+
+## ggplot2 语法
+
+```{r, out.width='100%', fig.align='center', echo = FALSE}
+knitr::include_graphics("images/how_to_plot.png")
+```
+
+
 ## ggplot2 语法
 
 ```{r, out.width='100%', fig.align='center', echo = FALSE}
 knitr::include_graphics("images/ggplot2_syntax1.pdf")
 ```
+
+
+
+## ggplot2 语法很容易理解
+
+\scriptsize
+\begincols[T]
+\begincol[T]{.45\textwidth}
+```{r, echo=TRUE, eval=FALSE}
+ggplot(mpg, aes(displ, hwy)) 
+```
+\endcol
+
+\begincol[T]{.6\textwidth}
+```{r, fig.width= 3, out.width='100%', fig.align='center', echo=FALSE}
+library(ggplot2)
+ggplot(mpg, aes(displ, hwy)) 
+```
+\endcol
+\endcols
+
+
 
 
 ## ggplot2 语法很容易理解
@@ -662,6 +690,10 @@ lincoln_df %>%
   kableExtra::kable_styling(position = "center")
 ```
 
+<!-- \centering{\href{https://bookdown.org/wangminjie/R4DS/ggplot2-academic.html}{代码在这}} -->
+
+
+
 ## points-errorbars 
 
 
@@ -757,22 +789,22 @@ lincoln_violin
 
 
 
-## 散点图
+<!-- ## 散点图 -->
 
-```{r lincoln-temp-all-points, fig.cap =  '林肯市2016年气温分布散点图'}
-lincoln_points <- lincoln_df %>%
-  ggplot(aes(x = month_short, y = `Mean Temperature [F]`)) +
-  geom_point(size = 0.75) +
-  xlab("month") +
-  ylab("mean temperature (°F)") +
-  theme_classic(base_size = 14) +
-  theme(
-    axis.text = element_text(color = "black", size = 12),
-    plot.margin = margin(3, 7, 3, 1.5)
-  )
+<!-- ```{r lincoln-temp-all-points, fig.cap =  '林肯市2016年气温分布散点图'} -->
+<!-- lincoln_points <- lincoln_df %>% -->
+<!--   ggplot(aes(x = month_short, y = `Mean Temperature [F]`)) + -->
+<!--   geom_point(size = 0.75) + -->
+<!--   xlab("month") + -->
+<!--   ylab("mean temperature (°F)") + -->
+<!--   theme_classic(base_size = 14) + -->
+<!--   theme( -->
+<!--     axis.text = element_text(color = "black", size = 12), -->
+<!--     plot.margin = margin(3, 7, 3, 1.5) -->
+<!--   ) -->
 
-lincoln_points
-```
+<!-- lincoln_points -->
+<!-- ``` -->
 
 
 ## 抖散图
