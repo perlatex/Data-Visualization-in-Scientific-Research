@@ -366,7 +366,7 @@ knitr::include_graphics("images/price-plot-hgrid-1.png")
 
 
 
-## 分布图的优缺点
+## 各种分布图的优缺点
 
 
 ```{r, echo=FALSE}
@@ -688,7 +688,7 @@ knitr::include_graphics("images/image-file-formats-saving.pdf")
 - 处理好重叠点
 - 色彩的运用
 - 必要的标注
-- 分布图的优缺点
+- 各种分布图的优缺点
 - 图片组合
 - 规避3D图
 - 图片格式
