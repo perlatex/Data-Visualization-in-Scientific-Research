@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 11:15
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1921,30 +1921,39 @@ ile (type pdf)
 ) [81
 
 ]
+\openout4 = `ggplot2_for_academic.vrb'.
+
+(./ggplot2_for_academic.vrb
+File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-72-1.pdf Graphic f
+ile (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-72-1.pdf>
+) [82
+
+]
 File: images/meme.jpg Graphic file (type bmp)
 <images/meme.jpg>
-[82
-
-] [83
+[83
 
 ] [84
 
+] [85
+
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 17.24123pt on input line 935.
+(Font)              scaled to size 17.24123pt on input line 956.
 File: images/QQgroup.png Graphic file (type bmp)
 <images/QQgroup.png>
-[85
+[86
 
 ]
-File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-73-1.pdf Graphic f
+File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-75-1.pdf Graphic f
 ile (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-73-1.pdf>
+<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-75-1.pdf>
 
-Overfull \vbox (13.3622pt too high) detected at line 940
+Overfull \vbox (13.3622pt too high) detected at line 961
  []
 
-[86
+[87
 
 ]
 \tf@nav=\write7
@@ -1956,24 +1965,24 @@ Overfull \vbox (13.3622pt too high) detected at line 940
 \tf@snm=\write9
 \openout9 = `ggplot2_for_academic.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 945.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 945.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 966.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 966.
 (./ggplot2_for_academic.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 945.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 945.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 966.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 966.
 Package rerunfilecheck Info: File `ggplot2_for_academic.out' has not changed.
 (rerunfilecheck)             Checksum: FA2E0EF83514BE2EB0FB5A161642C9FF;225.
  ) 
 Here is how much of TeX's memory you used:
- 34720 strings out of 481649
- 735522 string characters out of 5932812
- 1003033 words of memory out of 5000000
- 50973 multiletter control sequences out of 15000+600000
+ 34731 strings out of 481649
+ 736014 string characters out of 5932812
+ 1003089 words of memory out of 5000000
+ 50981 multiletter control sequences out of 15000+600000
  549041 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,13n,128p,1823b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ggplot2_for_academic.pdf (86 pages).
+Output written on ggplot2_for_academic.pdf (87 pages).
 
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light', contains ' '
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light Italic', contains ' '
