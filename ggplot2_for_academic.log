@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 11:27
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1460,17 +1460,15 @@ File: images/confidence-bands-1.png Graphic file (type bmp)
 ] [18
 
 ]
-LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 11.28809pt on input line 315.
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 24.82419pt on input line 315.
+(Font)              scaled to size 24.82419pt on input line 313.
 [19
 
 ]
 File: images/aes.pdf Graphic file (type pdf)
 <use images/aes.pdf>
 
-Overfull \vbox (0.69499pt too high) detected at line 328
+Overfull \vbox (0.69499pt too high) detected at line 326
  []
 
 [20
@@ -1484,7 +1482,7 @@ File: images/hawaii-income-bars-bad-1.png Graphic file (type bmp)
 File: images/hawaii-income-bars-good-1.png Graphic file (type bmp)
 <images/hawaii-income-bars-good-1.png>
 
-Overfull \vbox (14.07828pt too high) detected at line 340
+Overfull \vbox (14.07828pt too high) detected at line 338
  []
 
 [22
@@ -1518,7 +1516,7 @@ File: images/income-by-age-1.png Graphic file (type bmp)
 File: images/mpg-cty-displ-solid-1.png Graphic file (type bmp)
 <images/mpg-cty-displ-solid-1.png>
 
-Overfull \vbox (28.36586pt too high) detected at line 370
+Overfull \vbox (28.36586pt too high) detected at line 368
  []
 
 [28
@@ -1527,7 +1525,7 @@ Overfull \vbox (28.36586pt too high) detected at line 370
 File: images/mpg-cty-displ-transp-1.png Graphic file (type bmp)
 <images/mpg-cty-displ-transp-1.png>
 
-Overfull \vbox (28.36586pt too high) detected at line 375
+Overfull \vbox (28.36586pt too high) detected at line 373
  []
 
 [29
@@ -1536,7 +1534,7 @@ Overfull \vbox (28.36586pt too high) detected at line 375
 File: images/mpg-cty-displ-jitter-1.png Graphic file (type bmp)
 <images/mpg-cty-displ-jitter-1.png>
 
-Overfull \vbox (28.36586pt too high) detected at line 380
+Overfull \vbox (28.36586pt too high) detected at line 378
  []
 
 [30
@@ -1545,7 +1543,7 @@ Overfull \vbox (28.36586pt too high) detected at line 380
 File: images/popgrowth-vs-popsize-colored-1.png Graphic file (type bmp)
 <images/popgrowth-vs-popsize-colored-1.png>
 
-Overfull \vbox (147.01399pt too high) detected at line 387
+Overfull \vbox (147.01399pt too high) detected at line 385
  []
 
 [31
@@ -1554,7 +1552,7 @@ Overfull \vbox (147.01399pt too high) detected at line 387
 File: images/popgrowth-vs-popsize-bw-1.png Graphic file (type bmp)
 <images/popgrowth-vs-popsize-bw-1.png>
 
-Overfull \vbox (14.1881pt too high) detected at line 394
+Overfull \vbox (14.1881pt too high) detected at line 392
  []
 
 [32
@@ -1563,7 +1561,7 @@ Overfull \vbox (14.1881pt too high) detected at line 394
 File: images/popgrowth-vs-popsize_highlight.pdf Graphic file (type pdf)
 <use images/popgrowth-vs-popsize_highlight.pdf>
 
-Overfull \vbox (20.75784pt too high) detected at line 399
+Overfull \vbox (20.75784pt too high) detected at line 397
  []
 
 [33
@@ -1572,7 +1570,7 @@ Overfull \vbox (20.75784pt too high) detected at line 399
 File: images/popgrowth-US-rainbow-1.png Graphic file (type bmp)
 <images/popgrowth-US-rainbow-1.png>
 
-Overfull \vbox (193.02689pt too high) detected at line 406
+Overfull \vbox (193.02689pt too high) detected at line 404
  []
 
 [34
@@ -1581,7 +1579,7 @@ Overfull \vbox (193.02689pt too high) detected at line 406
 File: images/popgrowth-US-1.png Graphic file (type bmp)
 <images/popgrowth-US-1.png>
 
-Overfull \vbox (169.16092pt too high) detected at line 411
+Overfull \vbox (169.16092pt too high) detected at line 409
  []
 
 [35
@@ -1590,7 +1588,7 @@ Overfull \vbox (169.16092pt too high) detected at line 411
 File: images/popgrowth-US-highlight-1.png Graphic file (type bmp)
 <images/popgrowth-US-highlight-1.png>
 
-Overfull \vbox (169.16092pt too high) detected at line 416
+Overfull \vbox (169.16092pt too high) detected at line 414
  []
 
 [36
@@ -1599,7 +1597,7 @@ Overfull \vbox (169.16092pt too high) detected at line 416
 File: images/map-Texas-rainbow-1.png Graphic file (type bmp)
 <images/map-Texas-rainbow-1.png>
 
-Overfull \vbox (30.98805pt too high) detected at line 421
+Overfull \vbox (30.98805pt too high) detected at line 419
  []
 
 [37
@@ -1608,7 +1606,7 @@ Overfull \vbox (30.98805pt too high) detected at line 421
 File: images/map-Texas-race-1.png Graphic file (type bmp)
 <images/map-Texas-race-1.png>
 
-Overfull \vbox (30.98805pt too high) detected at line 426
+Overfull \vbox (30.98805pt too high) detected at line 424
  []
 
 [38
@@ -1617,7 +1615,7 @@ Overfull \vbox (30.98805pt too high) detected at line 426
 File: images/map-Texas-income-1.png Graphic file (type bmp)
 <images/map-Texas-income-1.png>
 
-Overfull \vbox (30.98805pt too high) detected at line 431
+Overfull \vbox (30.98805pt too high) detected at line 429
  []
 
 [39
@@ -1636,7 +1634,7 @@ File: images/theme_colors_design.png Graphic file (type bmp)
 File: images/mother_with_daughter.jpg Graphic file (type bmp)
 <images/mother_with_daughter.jpg>
 
-Overfull \vbox (5.4323pt too high) detected at line 450
+Overfull \vbox (5.4323pt too high) detected at line 448
  []
 
 [42
@@ -1673,9 +1671,9 @@ File: images/price-plot-hgrid-1.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 503.
+(Font)              scaled to size 10.30037pt on input line 501.
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 503; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 501; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -1693,7 +1691,7 @@ File: images/lincoln-temp-points-errorbars-1.png Graphic file (type bmp)
 File: images/boxplot-schematic.pdf Graphic file (type pdf)
 <use images/boxplot-schematic.pdf>
 
-Overfull \vbox (22.11917pt too high) detected at line 520
+Overfull \vbox (22.11917pt too high) detected at line 518
  []
 
 [51
@@ -1737,7 +1735,7 @@ File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf Graphic fil
 e (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf>
 
-Overfull \vbox (10.17937pt too high) detected at line 569
+Overfull \vbox (10.17937pt too high) detected at line 567
  []
 
 [58
@@ -1747,7 +1745,7 @@ File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf Gr
 aphic file (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf>
 
-Overfull \vbox (20.31548pt too high) detected at line 581
+Overfull \vbox (20.31548pt too high) detected at line 579
  []
 
 [59
@@ -1756,7 +1754,7 @@ Overfull \vbox (20.31548pt too high) detected at line 581
 File: images/athletes-composite-inconsistent-1.png Graphic file (type bmp)
 <images/athletes-composite-inconsistent-1.png>
 
-Overfull \vbox (30.93181pt too high) detected at line 586
+Overfull \vbox (30.93181pt too high) detected at line 584
  []
 
 [60
@@ -1765,7 +1763,7 @@ Overfull \vbox (30.93181pt too high) detected at line 586
 File: images/athletes-composite-good-1.png Graphic file (type bmp)
 <images/athletes-composite-good-1.png>
 
-Overfull \vbox (30.93181pt too high) detected at line 591
+Overfull \vbox (30.93181pt too high) detected at line 589
  []
 
 [61
@@ -1779,7 +1777,7 @@ File: images/prop_75_percent.png Graphic file (type bmp)
 File: images/titanic-3d-1.png Graphic file (type bmp)
 <images/titanic-3d-1.png>
 
-Overfull \vbox (30.98805pt too high) detected at line 603
+Overfull \vbox (30.98805pt too high) detected at line 601
  []
 
 [63
@@ -1788,7 +1786,7 @@ Overfull \vbox (30.98805pt too high) detected at line 603
 File: images/VA-death-rates-3d-1.png Graphic file (type bmp)
 <images/VA-death-rates-3d-1.png>
 
-Overfull \vbox (21.76613pt too high) detected at line 608
+Overfull \vbox (21.76613pt too high) detected at line 606
  []
 
 [64
@@ -1940,7 +1938,7 @@ File: images/meme.jpg Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 17.24123pt on input line 956.
+(Font)              scaled to size 17.24123pt on input line 954.
 File: images/QQgroup.png Graphic file (type bmp)
 <images/QQgroup.png>
 [86
@@ -1950,7 +1948,7 @@ File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-75-1.pdf Graphic f
 ile (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-75-1.pdf>
 
-Overfull \vbox (13.3622pt too high) detected at line 961
+Overfull \vbox (13.3622pt too high) detected at line 959
  []
 
 [87
@@ -1965,20 +1963,20 @@ Overfull \vbox (13.3622pt too high) detected at line 961
 \tf@snm=\write9
 \openout9 = `ggplot2_for_academic.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 966.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 966.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 964.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 964.
 (./ggplot2_for_academic.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 966.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 966.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 964.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 964.
 Package rerunfilecheck Info: File `ggplot2_for_academic.out' has not changed.
 (rerunfilecheck)             Checksum: FA2E0EF83514BE2EB0FB5A161642C9FF;225.
  ) 
 Here is how much of TeX's memory you used:
- 34731 strings out of 481649
- 736014 string characters out of 5932812
+ 34728 strings out of 481649
+ 735895 string characters out of 5932812
  1003089 words of memory out of 5000000
- 50981 multiletter control sequences out of 15000+600000
- 549041 words of font info for 91 fonts, out of 8000000 for 9000
+ 50979 multiletter control sequences out of 15000+600000
+ 549033 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,13n,128p,1823b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
 
