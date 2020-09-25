@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  24 SEP 2020 15:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1672,66 +1672,147 @@ File: images/price-plot-hgrid-1.png Graphic file (type bmp)
 [48
 
 ]
+LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
+(Font)              scaled to size 10.30037pt on input line 503.
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 503; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmss/bx/n/10.95 ".
+(fontspec)                  The requested feature is "Numbers={Monospaced}". 
+
+[49
+
+]
+File: images/lincoln-temp-points-errorbars-1.png Graphic file (type bmp)
+<images/lincoln-temp-points-errorbars-1.png>
+[50
+
+]
+File: images/boxplot-schematic.pdf Graphic file (type pdf)
+<use images/boxplot-schematic.pdf>
+
+Overfull \vbox (22.11917pt too high) detected at line 520
+ []
+
+[51
+
+]
+File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-boxplots-1.pdf Grap
+hic file (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-boxplots-1.pdf>
+[52
+
+]
+File: images/violin-schematic-1.png Graphic file (type bmp)
+<images/violin-schematic-1.png>
+[53
+
+]
+File: images/boxplot_nature_methods.pdf Graphic file (type pdf)
+<use images/boxplot_nature_methods.pdf>
+[54
+
+]
+File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-violins-1.pdf Graph
+ic file (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-violins-1.pdf>
+[55
+
+]
+File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-jittered-1.pdf Grap
+hic file (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-jittered-1.pdf>
+[56
+
+]
+File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-sina-1.pdf Graphic 
+file (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-sina-1.pdf>
+[57
+
+]
+File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf Graphic fil
+e (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf>
+
+Overfull \vbox (10.17937pt too high) detected at line 569
+ []
+
+[58
+
+]
+File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf Gr
+aphic file (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf>
+
+Overfull \vbox (20.31548pt too high) detected at line 581
+ []
+
+[59
+
+]
 File: images/athletes-composite-inconsistent-1.png Graphic file (type bmp)
 <images/athletes-composite-inconsistent-1.png>
 
-Overfull \vbox (30.93181pt too high) detected at line 485
+Overfull \vbox (30.93181pt too high) detected at line 586
  []
 
-[49
+[60
 
 ]
 File: images/athletes-composite-good-1.png Graphic file (type bmp)
 <images/athletes-composite-good-1.png>
 
-Overfull \vbox (30.93181pt too high) detected at line 490
+Overfull \vbox (30.93181pt too high) detected at line 591
  []
 
-[50
+[61
 
 ]
 File: images/prop_75_percent.png Graphic file (type bmp)
 <images/prop_75_percent.png>
-[51
+[62
 
 ]
 File: images/titanic-3d-1.png Graphic file (type bmp)
 <images/titanic-3d-1.png>
 
-Overfull \vbox (30.98805pt too high) detected at line 502
+Overfull \vbox (30.98805pt too high) detected at line 603
  []
 
-[52
+[63
 
 ]
 File: images/VA-death-rates-3d-1.png Graphic file (type bmp)
 <images/VA-death-rates-3d-1.png>
 
-Overfull \vbox (21.76613pt too high) detected at line 507
+Overfull \vbox (21.76613pt too high) detected at line 608
  []
 
-[53
+[64
 
 ]
 File: images/VA-death-rates-Trellis-1.png Graphic file (type bmp)
 <images/VA-death-rates-Trellis-1.png>
-[54
+[65
 
 ]
 File: images/image-file-formats.png Graphic file (type bmp)
 <images/image-file-formats.png>
-[55
+[66
 
 ]
 File: images/image-file-formats-saving.pdf Graphic file (type pdf)
 <use images/image-file-formats-saving.pdf>
-[56
+[67
 
-] [57
+] [68
 
-] [58
+] [69
 
-] [59
+] [70
 
 ]
 
@@ -1758,12 +1839,12 @@ on={.otf}].
 nguage=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-[60
+[71
 
 ]
 File: images/hadley-wickham.jpg Graphic file (type bmp)
 <images/hadley-wickham.jpg>
-[61
+[72
 
 ]
 \openout4 = `ggplot2_for_academic.vrb'.
@@ -1771,17 +1852,17 @@ File: images/hadley-wickham.jpg Graphic file (type bmp)
 (./ggplot2_for_academic.vrb
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 7.
-) [62
+) [73
 
 ]
 File: images/how_to_plot.png Graphic file (type bmp)
 <images/how_to_plot.png>
-[63
+[74
 
 ]
 File: images/ggplot2_syntax1.pdf Graphic file (type pdf)
 <use images/ggplot2_syntax1.pdf>
-[64
+[75
 
 ]
 \openout4 = `ggplot2_for_academic.vrb'.
@@ -1789,28 +1870,10 @@ File: images/ggplot2_syntax1.pdf Graphic file (type pdf)
 (./ggplot2_for_academic.vrb
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <8> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 9.
-File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-56-1.pdf Graphic f
-ile (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-56-1.pdf>
-) [65
-
-]
-\openout4 = `ggplot2_for_academic.vrb'.
-
-(./ggplot2_for_academic.vrb
-File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-58-1.pdf Graphic f
-ile (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-58-1.pdf>
-) [66
-
-]
-\openout4 = `ggplot2_for_academic.vrb'.
-
-(./ggplot2_for_academic.vrb
 File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-60-1.pdf Graphic f
 ile (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-60-1.pdf>
-) [67
+) [76
 
 ]
 \openout4 = `ggplot2_for_academic.vrb'.
@@ -1819,7 +1882,7 @@ ile (type pdf)
 File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-62-1.pdf Graphic f
 ile (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-62-1.pdf>
-) [68
+) [77
 
 ]
 \openout4 = `ggplot2_for_academic.vrb'.
@@ -1828,7 +1891,7 @@ ile (type pdf)
 File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-64-1.pdf Graphic f
 ile (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-64-1.pdf>
-) [69
+) [78
 
 ]
 \openout4 = `ggplot2_for_academic.vrb'.
@@ -1837,138 +1900,51 @@ ile (type pdf)
 File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-66-1.pdf Graphic f
 ile (type pdf)
 <use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-66-1.pdf>
-) [70
-
-] [71
+) [79
 
 ]
+\openout4 = `ggplot2_for_academic.vrb'.
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 797; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmss/m/n/8 ".
-(fontspec)                  The requested feature is "Numbers={Monospaced}". 
-
-[72
+(./ggplot2_for_academic.vrb
+File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-68-1.pdf Graphic f
+ile (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-68-1.pdf>
+) [80
 
 ]
-File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-points-errorbars-1.
-pdf Graphic file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-points-errorbars-1.p
-df>
-LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 809.
+\openout4 = `ggplot2_for_academic.vrb'.
 
-Overfull \vbox (10.17937pt too high) detected at line 809
- []
-
-[73
-
-]
-File: images/boxplot-schematic.pdf Graphic file (type pdf)
-<use images/boxplot-schematic.pdf>
-
-Overfull \vbox (22.11917pt too high) detected at line 821
- []
-
-[74
-
-]
-File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-boxplots-1.pdf Grap
-hic file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-boxplots-1.pdf>
-
-Overfull \vbox (10.17937pt too high) detected at line 833
- []
-
-[75
-
-]
-File: images/violin-schematic-1.png Graphic file (type bmp)
-<images/violin-schematic-1.png>
-[76
-
-]
-File: images/boxplot_nature_methods.pdf Graphic file (type pdf)
-<use images/boxplot_nature_methods.pdf>
-[77
-
-]
-File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-violins-1.pdf Graph
-ic file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-violins-1.pdf>
-
-Overfull \vbox (10.17937pt too high) detected at line 869
- []
-
-[78
-
-]
-File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-jittered-1.pdf Grap
-hic file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-jittered-1.pdf>
-
-Overfull \vbox (10.17937pt too high) detected at line 881
- []
-
-[79
-
-]
-File: ggplot2_for_academic_files/figure-beamer/lincoln-temp-sina-1.pdf Graphic 
-file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/lincoln-temp-sina-1.pdf>
-
-Overfull \vbox (10.17937pt too high) detected at line 893
- []
-
-[80
-
-]
-File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf Graphic fil
-e (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-1.pdf>
-
-Overfull \vbox (10.17937pt too high) detected at line 905
- []
-
-[81
-
-]
-File: ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf Gr
-aphic file (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/temp-ridgeline-colorbar-1.pdf>
-
-Overfull \vbox (20.31548pt too high) detected at line 917
- []
-
-[82
+(./ggplot2_for_academic.vrb
+File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-70-1.pdf Graphic f
+ile (type pdf)
+<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-70-1.pdf>
+) [81
 
 ]
 File: images/meme.jpg Graphic file (type bmp)
 <images/meme.jpg>
-[83
+[82
+
+] [83
 
 ] [84
 
-] [85
-
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 17.24123pt on input line 976.
+(Font)              scaled to size 17.24123pt on input line 935.
 File: images/QQgroup.png Graphic file (type bmp)
 <images/QQgroup.png>
-[86
+[85
 
 ]
-File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-72-1.pdf Graphic f
+File: ggplot2_for_academic_files/figure-beamer/unnamed-chunk-73-1.pdf Graphic f
 ile (type pdf)
-<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-72-1.pdf>
+<use ggplot2_for_academic_files/figure-beamer/unnamed-chunk-73-1.pdf>
 
-Overfull \vbox (13.3622pt too high) detected at line 981
+Overfull \vbox (13.3622pt too high) detected at line 940
  []
 
-[87
+[86
 
 ]
 \tf@nav=\write7
@@ -1980,24 +1956,24 @@ Overfull \vbox (13.3622pt too high) detected at line 981
 \tf@snm=\write9
 \openout9 = `ggplot2_for_academic.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 986.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 986.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 945.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 945.
 (./ggplot2_for_academic.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 986.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 986.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 945.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 945.
 Package rerunfilecheck Info: File `ggplot2_for_academic.out' has not changed.
-(rerunfilecheck)             Checksum: 1A5E0620F22551A7A29D209C45063DFA;356.
+(rerunfilecheck)             Checksum: FA2E0EF83514BE2EB0FB5A161642C9FF;225.
  ) 
 Here is how much of TeX's memory you used:
- 34747 strings out of 481649
- 737402 string characters out of 5932812
- 1003437 words of memory out of 5000000
- 51000 multiletter control sequences out of 15000+600000
+ 34720 strings out of 481649
+ 735522 string characters out of 5932812
+ 1003033 words of memory out of 5000000
+ 50973 multiletter control sequences out of 15000+600000
  549041 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,13n,128p,1823b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ggplot2_for_academic.pdf (87 pages).
+Output written on ggplot2_for_academic.pdf (86 pages).
 
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light', contains ' '
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light Italic', contains ' '
