@@ -517,7 +517,7 @@ lincoln_jitter
 
 
 
-## sina 图
+## Sina 图
 
 
 ```{r lincoln-temp-sina}

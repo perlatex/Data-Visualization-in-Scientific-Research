@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.19)  25 SEP 2020 16:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.26)  27 SEP 2020 09:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ggplot2_for_academic.tex
 (./ggplot2_for_academic.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-06> (g:/Tinytex/texmf-dist/tex/latex/beamer/beame
+L3 programming layer <2020-09-24> (g:/Tinytex/texmf-dist/tex/latex/beamer/beame
 r.cls
 Document Class: beamer 2020/07/22 v3.59 A class for typesetting presentations
 (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (g:/Tinytex/texmf-d
@@ -294,7 +294,7 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 (g:/Tinytex/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ) (g:/Tinytex/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )) (g:/Tinytex/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 (g:/Tinytex/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -630,9 +630,9 @@ r XeLaTeX)
 (g:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec.sty (g:/Tinytex/texmf-dist/t
 ex/latex/l3packages/xparse/xparse.sty (g:/Tinytex/texmf-dist/tex/latex/l3kernel
 /expl3.sty
-Package: expl3 2020-09-06 L3 programming layer (loader) 
+Package: expl3 2020-09-24 L3 programming layer (loader) 
 (g:/Tinytex/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2020-09-11 L3 backend support: XeTeX
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
 \g__graphics_track_int=\count319
 \l__pdf_internal_box=\box75
 \g__pdf_backend_object_int=\count320
@@ -1972,10 +1972,10 @@ Package rerunfilecheck Info: File `ggplot2_for_academic.out' has not changed.
 (rerunfilecheck)             Checksum: FA2E0EF83514BE2EB0FB5A161642C9FF;225.
  ) 
 Here is how much of TeX's memory you used:
- 34728 strings out of 481649
- 735895 string characters out of 5932812
- 1003089 words of memory out of 5000000
- 50979 multiletter control sequences out of 15000+600000
+ 34736 strings out of 481648
+ 736102 string characters out of 5932781
+ 1003049 words of memory out of 5000000
+ 50988 multiletter control sequences out of 15000+600000
  549033 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,13n,128p,1823b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
