@@ -985,7 +985,7 @@ knitr::include_graphics("images/meme.jpg")
 愿 R 语言成为你构建知识大厦的脚手架！
      38552109\textcolor{red}{@}qq.com
 }
-```{r echo=FALSE, out.width = '30%', fig.align='center'}
+```{r echo=FALSE, out.width = '30%', fig.align='center', eval=FALSE}
 knitr::include_graphics("images/QQgroup.png")
 ```
 
